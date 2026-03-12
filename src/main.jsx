@@ -7,14 +7,3 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <App />
   </React.StrictMode>
 );
-```
-
-**GitHubに追加するファイル一覧：**
-```
-リポジトリのルート
-├── index.html
-├── package.json
-├── vite.config.js
-└── src/
-    ├── main.jsx　← 新規追加
-    └── App.jsx　← すでにある
